@@ -1,4 +1,4 @@
-# Bai 1 - Vũ Nông Việt Thi
+# Bài 1 - Vũ Nông Việt Thi
 
 ## 1. Cấu trúc thư mục
 <img width="641" height="340" alt="Screenshot 2026-06-01 090127" src="https://github.com/user-attachments/assets/0c29f9fb-4056-4947-9af5-601523574bf4" />
